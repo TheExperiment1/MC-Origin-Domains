@@ -1,0 +1,10 @@
+{
+  "powers": [
+    "origins:creative_flight"
+  ],
+  "icon": "minecraft:white_wool",
+  "order": 4,
+  "impact": 1,
+  "name": "Air Origin",
+  "description": "Air domain test origin"
+}
