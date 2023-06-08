@@ -1,4 +1,4 @@
-package net.fabricmc.example;
+package io.github.TheExperiment1.originDomains;
 
 import net.fabricmc.api.ModInitializer;
 import org.slf4j.Logger;

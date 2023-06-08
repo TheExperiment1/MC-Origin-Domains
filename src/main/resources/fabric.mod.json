@@ -4,13 +4,13 @@
   "version": "${version}",
 
   "name": "Example Mod",
-  "description": "This is an example description! Tell everyone what your mod is about!",
+  "description": "Origin Domains is a mod that incorporates origins specialized for certain terrains, such as the sky or underground.",
   "authors": [
-    "Me!"
+    "TheExperiment1"
   ],
   "contact": {
-    "homepage": "https://fabricmc.net/",
-    "sources": "https://github.com/FabricMC/fabric-example-mod"
+    "homepage": "https://github.com/TheExperiment1/MC-Origin-Domains",
+    "sources": "https://github.com/TheExperiment1/MC-Origin-Domains"
   },
 
   "license": "CC0-1.0",
@@ -19,7 +19,7 @@
   "environment": "*",
   "entrypoints": {
     "main": [
-      "net.fabricmc.example.ExampleMod"
+      "io.github.TheExperiment1.originDomains.ExampleMod"
     ]
   },
   "mixins": [
